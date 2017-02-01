@@ -17,7 +17,7 @@
     "raspi": "^3.0.0",
     "raspi-board": "^4.0.0",
     "raspi-gpio": "^3.0.0",
-    "raspi-i2c": "^5.0.2",
+    "raspi-i2c": "farfromrefug/raspi-i2c",
     "raspi-led": "^1.4.0",
     "raspi-pwm": "^3.1.0",
     "raspi-serial": "^3.0.3",
